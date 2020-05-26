@@ -1,2 +1,3 @@
 # 2to4
-2 do 4 
+
+Krótkie tutoriale, których treść powinna zamykać się w 16 linijkach kodu.
